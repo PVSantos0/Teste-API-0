@@ -1,0 +1,62 @@
+a{
+	color:black;
+}
+
+#topo {
+  position: fixed;
+  color: #3c4a5d;
+  font-size: 60px;
+  bottom: 20px;
+  right: 30px;
+}
+
+.fundo{
+	background: #3c4a5d;
+}
+
+.logo{
+	height: 100px;
+	width: 200px;
+}
+
+.iconeCaixa{
+	width: 100%;
+}
+
+.fundo-texto{
+	background-color:lightblue;
+	height: 80vh;
+}
+
+.tamanho-logos{
+	height:10%;
+	width: 15%;
+}
+
+.fundo-calculadora{
+	background-color: 255,255,255;
+	height: 500px;
+}
+
+.caixa{
+	height: 400px;
+	width: 1600px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.texto-carosel{
+	color:white;
+	text-align: center;
+	margin-top:10px;
+	margin-bottom: 100px; 
+}
+
+.fundo-2{
+	background-color:lightblue;
+	height: 50vh;
+}
+
+.fundo-3{
+	background-color: grey;
+}
