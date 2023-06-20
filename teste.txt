@@ -1,9 +1,9 @@
-InstruÁıes:
+Instru√ß√µes:
 
-[16:20, 5/9/2018] Matheus Thomaz: Desenvolver as telas responsivas do teste utilizando vuejs.
+Desenvolver as telas responsivas do teste utilizando vuejs.
 Pode ser utilizado o template fornecenido com webpack https://github.com/vuejs-templates/webpack
-Realizar a integraÁ„o da calculadora com a API do Melhor Envio.
+Realizar a integra√ß√£o da calculadora com a API do Melhor Envio.
 (adiciona aqui algo sobre a api)
 
-O arquivo est· em sketch, ent„o usu·rios windows podem abrir com o Lunacy (https://icons8.com.br/lunacy)
-[16:20, 5/9/2018] Matheus Thomaz: Foi basicamente isso
+O arquivo est√° em sketch, ent√£o usu√°rios windows podem abrir com o Lunacy (https://icons8.com.br/lunacy)
+Foi basicamente isso
